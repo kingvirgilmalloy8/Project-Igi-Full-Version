@@ -246,4 +246,4 @@ This repository serves as the official landing page for Project IGI. The softwar
 **Get the most recent version of Project IGI today!**
 
 ---
-**Last updated:** 2026-09-25 13:27:50 UTC
+**Last updated:** 2026-09-25 18:22:18 UTC
